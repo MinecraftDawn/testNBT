@@ -1,0 +1,7 @@
+name: testNBT
+version: 0.0.0
+main: nbt.NBT
+depend: [ItemNBTAPI]
+
+commands:
+  gg:
